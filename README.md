@@ -72,11 +72,13 @@ In your Zed `settings.json` (`Cmd + ,`):
 {
   "theme": "Maya",
   "buffer_font_family": "JetBrains Mono",
-  "buffer_font_size": 13.5,
+  "buffer_font_size": 12.5,
   "buffer_line_height": { "custom": 1.5 },
-  "ui_font_family": "Inter",
   "colorize_brackets": true,
-  "cursor_blink": true
+  "cursor_blink": true,
+  "ui_font_size": 14.0,
+  "ui_font_weight": 400.0,
+  "ui_font_family": "JetBrains Mono"
 }
 ```
 
