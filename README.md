@@ -1,4 +1,4 @@
-# Maya / Carbon React Theme Pack for Zed
+# Maya React Theme Pack for Zed
 
 A sleek, modern dark theme suite ported to the [Zed code editor](https://zed.dev), featuring the flagship **Maya** theme alongside **Maya Black**, **Pure**, and **Winter**.
 
@@ -11,7 +11,7 @@ Inspired by One Dark Pro and Monokai, **Maya** blends a calming midnight navy wo
 | Theme                 | Background | Description                                                                                                         |
 | :-------------------- | :--------- | :------------------------------------------------------------------------------------------------------------------ |
 | **Maya** _(Flagship)_ | `#161a26`  | Deep midnight navy-slate workspace with warm golden amber (`#e6b450`) accents and pastel Monokai code highlighting. |
-| **Maya Black**        | `#000205`  | Pitch black OLED-friendly variation with crisp slate borders and the signature Maya syntax palette.                 |
+| **Maya Black**        | `#0b0e14`  | Deep obsidian black variation with crisp slate borders and the signature Maya syntax palette.                       |
 | **Pure**              | `#1b1d22`  | Minimalist charcoal dark theme with cool monochrome accents.                                                        |
 | **Winter**            | `#011627`  | Deep ocean blue background with icy cyan and electric blue syntax colors.                                           |
 
