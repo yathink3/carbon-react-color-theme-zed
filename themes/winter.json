@@ -189,7 +189,8 @@
             "font_style": "italic"
           },
           "keyword": {
-            "color": "#c792ea"
+            "color": "#c792ea",
+            "font_style": "italic"
           },
           "function": {
             "color": "#82aaff"
@@ -335,6 +336,20 @@
           },
           "tag.doctype": {
             "color": "#7fdbca"
+          },
+          "keyword.import": {
+            "color": "#c792ea",
+            "font_style": "italic"
+          },
+          "keyword.control.import": {
+            "color": "#c792ea",
+            "font_style": "italic"
+          },
+          "keyword.control": {
+            "color": "#c792ea"
+          },
+          "keyword.declaration": {
+            "color": "#c792ea"
           }
         },
         "accents": [

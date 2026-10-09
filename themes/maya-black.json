@@ -335,7 +335,12 @@
             "color": "#B38CFF"
           },
           "keyword.import": {
-            "color": "#B38CFF"
+            "color": "#B38CFF",
+            "font_style": "italic"
+          },
+          "keyword.control.import": {
+            "color": "#B38CFF",
+            "font_style": "italic"
           },
           "function.method": {
             "color": "#F29D79"
