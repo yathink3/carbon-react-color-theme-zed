@@ -1,6 +1,6 @@
 # Maya / Carbon React Theme Pack for Zed
 
-A sleek, modern dark theme suite ported to the [Zed code editor](https://zed.dev), featuring the flagship **Maya** theme alongside **Maya Black**, **Pure**, **Winter**, and **Trae**.
+A sleek, modern dark theme suite ported to the [Zed code editor](https://zed.dev), featuring the flagship **Maya** theme alongside **Maya Black**, **Pure**, and **Winter**.
 
 Inspired by One Dark Pro and Monokai, **Maya** blends a calming midnight navy workspace with carefully balanced pastel syntax highlighting to enhance readability and reduce eye fatigue.
 
@@ -14,7 +14,6 @@ Inspired by One Dark Pro and Monokai, **Maya** blends a calming midnight navy wo
 | **Maya Black** | `#000205` | Pitch black OLED-friendly variation with crisp slate borders and the signature Maya syntax palette. |
 | **Pure** | `#1b1d22` | Minimalist charcoal dark theme with cool monochrome accents. |
 | **Winter** | `#011627` | Deep ocean blue background with icy cyan and electric blue syntax colors. |
-| **Trae** | `#171B26` | Modern dark slate theme with vibrant blue tab indicators. |
 
 ---
 
@@ -57,7 +56,7 @@ You can install and use this extension in Zed immediately during development:
    /Users/yathink/projects/carbon-react-color-theme-zed
    ```
 5. Open the theme switcher with `Cmd + K, Cmd + T` (or command `theme selector: toggle`).
-6. Select **Maya** or any of the other variants (**Maya Black**, **Pure**, **Winter**, **Trae**).
+6. Select **Maya** or any of the other variants (**Maya Black**, **Pure**, **Winter**).
 
 ---
 
@@ -74,6 +73,7 @@ In your Zed `settings.json` (`Cmd + ,`):
   "buffer_font_size": 13.5,
   "buffer_line_height": { "custom": 1.5 },
   "ui_font_family": "Inter",
+  "colorize_brackets": true,
   "cursor_blink": true
 }
 ```
