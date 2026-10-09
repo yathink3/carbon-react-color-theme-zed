@@ -8,18 +8,19 @@ Inspired by One Dark Pro and Monokai, **Maya** blends a calming midnight navy wo
 
 ## 🎨 Themes Included
 
-| Theme | Background | Description |
-| :--- | :--- | :--- |
-| **Maya** *(Flagship)* | `#161a26` | Deep midnight navy-slate workspace with warm golden amber (`#e6b450`) accents and pastel Monokai code highlighting. |
-| **Maya Black** | `#000205` | Pitch black OLED-friendly variation with crisp slate borders and the signature Maya syntax palette. |
-| **Pure** | `#1b1d22` | Minimalist charcoal dark theme with cool monochrome accents. |
-| **Winter** | `#011627` | Deep ocean blue background with icy cyan and electric blue syntax colors. |
+| Theme                 | Background | Description                                                                                                         |
+| :-------------------- | :--------- | :------------------------------------------------------------------------------------------------------------------ |
+| **Maya** _(Flagship)_ | `#161a26`  | Deep midnight navy-slate workspace with warm golden amber (`#e6b450`) accents and pastel Monokai code highlighting. |
+| **Maya Black**        | `#000205`  | Pitch black OLED-friendly variation with crisp slate borders and the signature Maya syntax palette.                 |
+| **Pure**              | `#1b1d22`  | Minimalist charcoal dark theme with cool monochrome accents.                                                        |
+| **Winter**            | `#011627`  | Deep ocean blue background with icy cyan and electric blue syntax colors.                                           |
 
 ---
 
 ## 🔍 Maya Color Palette Highlights
 
 ### Workbench & UI
+
 - **Editor Background**: `#161a26`
 - **Surface / Panel Background**: `#171B26`
 - **Dropdown & Input Background**: `#141722`
@@ -30,6 +31,7 @@ Inspired by One Dark Pro and Monokai, **Maya** blends a calming midnight navy wo
 - **Search Match**: `#6c598080` (Muted Violet)
 
 ### Syntax Highlighting (Tree-sitter)
+
 - **Keywords / Control Flow**: `#B38CFF` (Lavender Purple)
 - **Functions & Methods**: `#F29D79` (Soft Peach / Coral)
 - **Types & Classes**: `#F0D8FF` (Pastel Lilac)
@@ -39,7 +41,7 @@ Inspired by One Dark Pro and Monokai, **Maya** blends a calming midnight navy wo
 - **Variables & Parameters**: `#DED47E` (Soft Golden Olive)
 - **Properties & Object Keys**: `#E0E3EE` (Ice Off-White)
 - **HTML / JSX Tags**: `#F2858C` (Pastel Coral Red)
-- **Comments**: `#737780` (*Italic* Slate)
+- **Comments**: `#737780` (_Italic_ Slate)
 - **Operators & Punctuation**: `#D5D8E0` (Soft Ash Gray)
 
 ---
@@ -86,7 +88,10 @@ In your Zed `settings.json` (`Cmd + ,`):
 carbon-react-color-theme-zed/
 ├── extension.toml          # Zed extension manifest
 ├── themes/
-│   └── carbon-react.json   # Theme family definition (v0.2.0 schema)
+│   ├── maya.json           # Flagship Maya dark theme
+│   ├── maya-black.json     # Maya Black OLED theme
+│   ├── pure.json           # Minimalist Pure dark theme
+│   └── winter.json         # Deep Winter dark theme
 ├── README.md               # Documentation & usage guide
 ├── LICENSE                 # MIT License
 └── .gitignore
