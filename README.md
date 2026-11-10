@@ -65,7 +65,11 @@ You can install and use this extension in Zed immediately during development:
 
 ## 🔤 Recommended Font Settings
 
-For the optimal coding experience with the Maya theme, pair it with **JetBrains Mono** or **Fira Code**:
+For the optimal coding experience with the Maya theme, pair it with **JetBrains Mono**, **Fira Code**, or **LigaComicMono**:
+
+- [Install JetBrains Mono](https://yathink3.github.io/assets/JetBrainsMono.ttf)
+- [Install FiraCode](https://yathink3.github.io/assets/FiraCode.ttf)
+- [Install LigaComicMono](https://yathink3.github.io/assets/LigaComicMono.ttf)
 
 In your Zed `settings.json` (`Cmd + ,`):
 
